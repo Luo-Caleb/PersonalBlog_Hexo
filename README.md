@@ -6,5 +6,3 @@ PersonalBlog for test
 
 dertery
 
-sdffsdfsdf
-
